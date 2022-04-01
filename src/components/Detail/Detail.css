@@ -1,0 +1,25 @@
+.detail{
+    flex-direction: column;
+}
+.detail__row{
+    display: flex;
+
+}
+
+.detail__img{
+    width: 300px;
+    height: 60vh;
+    border-radius: 0 0 50px  50px;
+}
+
+.detail__description{
+    margin-left: 30px;
+    width: 600px;
+}
+
+.detail__title{
+    text-align: center;
+}
+.high{
+    font-weight: 900;
+}

@@ -1,0 +1,17 @@
+.form__wrapper{
+    text-align: center;
+    margin: 40px 0;
+}
+
+.form__input{
+    width: 30%;
+    height: 40px;
+    border-radius: 14px 0 0;
+    padding: 0 10px;
+}
+.form__button{
+    height: 40px;
+    border-radius: 0 14px 0 0;
+    margin-left: 3px;
+    padding: 0 15px;
+}
