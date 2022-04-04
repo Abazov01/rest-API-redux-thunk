@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/rest-API-redux-thunk/static/css/main.45391590.css",
-    "main.js": "/rest-API-redux-thunk/static/js/main.e9e47a49.js",
+    "main.js": "/rest-API-redux-thunk/static/js/main.b505b491.js",
     "static/media/account.png": "/rest-API-redux-thunk/static/media/account.e7f6ea6511e620192d1a.png",
     "static/media/logo.png": "/rest-API-redux-thunk/static/media/logo.fc735746cc7429abf302.png",
     "static/media/nav.png": "/rest-API-redux-thunk/static/media/nav.7bcc0b518006cd9b76f7.png",
     "static/media/video.png": "/rest-API-redux-thunk/static/media/video.00fc3f5dc2f6707e934a.png",
     "index.html": "/rest-API-redux-thunk/index.html",
     "main.45391590.css.map": "/rest-API-redux-thunk/static/css/main.45391590.css.map",
-    "main.e9e47a49.js.map": "/rest-API-redux-thunk/static/js/main.e9e47a49.js.map"
+    "main.b505b491.js.map": "/rest-API-redux-thunk/static/js/main.b505b491.js.map"
   },
   "entrypoints": [
     "static/css/main.45391590.css",
-    "static/js/main.e9e47a49.js"
+    "static/js/main.b505b491.js"
   ]
 }
